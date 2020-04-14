@@ -1,0 +1,11 @@
+https://nu.bootcampcontent.com/shelbyc1/homework_13_web_scraping/commit/cb122806d4f9e9ac925344420361a3a93e39b436?expanded=1#03869f901dfa6d33cf05ea691bc003adf4255f00
+
+https://splinter.readthedocs.io/en/latest/api/driver-and-element-api.html
+
+https://docs.brew.sh/FAQ
+
+https://splinter.readthedocs.io/en/latest/drivers/chrome.html
+
+https://towardsdatascience.com/elevate-your-webscraping-with-splinter-a926eee7f7d9
+
+https://www.youtube.com/watch?v=yw5OZiMB-Z8
