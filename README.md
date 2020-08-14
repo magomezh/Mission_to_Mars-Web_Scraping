@@ -10,7 +10,7 @@
     - Featured Mars Image from [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
     - Current Weather on Mars from [Mars Weather twitter Account](https://twitter.com/marswxreport?lang=en)
     - Mars Facts from [Mars Facts webpage](https://space-facts.com/mars/)
-    - Mars Hemisphere images from [USGS Astrogeology site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
+    - Mars Hemispheres images from [USGS Astrogeology site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
 ## Tools Used
 Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap, Jupyter Notebook
@@ -35,7 +35,6 @@ Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap, Jupyter Note
 
 ![Mission to Mars](Mission_to_Mars/Images/Mission_to_mars.png)
 
-![Mission to Mars](Mission_to_Mars/Images/Mars_images.png)
-
+![Mars Hemispheres](Mission_to_Mars/Images/Mars_images.png)
 
 
