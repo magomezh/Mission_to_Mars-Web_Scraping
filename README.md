@@ -7,7 +7,7 @@
 
 * Information to be extracted:
     - Latest Mars News from [NASA Mars News Site](https://mars.nasa.gov/news/)
-    - Featured Mars Image from JPL Mars Space Images [JPL Mars Space](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
+    - Featured Mars Image from [JPL Mars Space Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
     - Current Weather on Mars from [Mars Weather twitter Account](https://twitter.com/marswxreport?lang=en)
     - Mars Facts from [Mars Facts webpage](https://space-facts.com/mars/)
     - Mars Hemisphere images from [USGS Astrogeology site](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
