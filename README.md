@@ -33,7 +33,7 @@ Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap, Jupyter Note
 
 ## Webpage Images
 
-![Mission to Mars](Mission_to_Mars/Images/Mission_to_mars.png)
+![Mars](Mission_to_Mars/Images/Mars.png)
 
 ![Mars Hemispheres](Mission_to_Mars/Images/Mars_images.png)
 
