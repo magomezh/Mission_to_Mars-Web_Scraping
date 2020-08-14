@@ -95,7 +95,7 @@ def hemispheres(browser):
     for i in range(len(links)):
         hemisphere = {}
     
-        # We have to find the elements on each loop to avoid a stale element exception
+        # We have to find the elements on each loop 
         browser.find_by_css("a.product-item h3")[i].click()
     
         # Next, we find the Sample image anchor tag and extract the href
@@ -108,7 +108,7 @@ def hemispheres(browser):
         # Append hemisphere object to list
         image_urls.append(hemisphere)
     
-        # Finally, we navigate backwards
+        # Finally, we go backwards
         browser.back()
         
     return image_urls
