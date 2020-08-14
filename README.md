@@ -1,10 +1,10 @@
 # NASA - Mission To Mars 
 
-Built web application that scrapes several websited for data related to the Mission to Mars. 
 
 ## Purpose
 
 Built web application to scrape several websites, gathering Mars' latest information. 
+
 Information to be extracted:
     - Latest Mars News - from [NASA Mars News Site](https://mars.nasa.gov/news/)
     - Featured Mars Image - from JPL Mars Space Images [JPL Mars Space](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
