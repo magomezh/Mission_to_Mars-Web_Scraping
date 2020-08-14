@@ -33,7 +33,7 @@ Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap, Jupyter Note
     - Created to hold the mars data dictionary, and to display all of the data in the appropriate HTML elements.
 * On the top heading of the HTML main page clicking the "Scrape New Data" button will scrape all the data, and render the information. 
 
-## Webpage Images
+## Web page Images
 
 ![Mars](Mission_to_Mars/Images/Mars.png)
 
