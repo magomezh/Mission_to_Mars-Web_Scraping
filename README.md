@@ -29,9 +29,9 @@ Python, Pandas, Flask, Splinter, MongoDB, PyMongo, HTML, Bootstrap, Jupyter Note
     - app.py
         - Created a route called /scrape that imports scrape_mars.py script and call the scrape function.
         - Created a root route / that will query the Mongo database and pass the mars data into an HTML template to display the data.
-* index.html 
-    - Created to hold the mars data dictionary, and to display all of the data in the appropriate HTML elements.
-* On the top heading of the HTML main page clicking the "Scrape New Data" button will scrape all the data, and render the information. 
+    - index.html 
+        - Created to hold the mars data dictionary, and to display all of the data in the appropriate HTML elements.
+        - On main page clicking the "Scrape New Data" button will scrape all the data and render the information. 
 
 ## Web page Images
 
